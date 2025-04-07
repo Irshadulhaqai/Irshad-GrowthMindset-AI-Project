@@ -63,12 +63,12 @@ This app is designed to help users build a growth mindset through self-reflectio
 
 ## Demo
 
-[Live App Link](https://your-username.streamlit.app)
+[Live App Link](https://irshad-growthmindset-ai-project-6iugxj9wijhwlrrnbrklmd.streamlit.app)
 Replace the above link with your actual Streamlit deployment URL.
 
 ## Preview
 
-[App Screenshot - Growth Mindset with AI](app-screenshot.png)
+[App Screenshot - Growth Mindset with AI ](/app-screenshot.png)
 
 
 ## License
